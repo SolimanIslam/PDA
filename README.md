@@ -27,7 +27,7 @@ src/
 1. Clone the repository:
    git clone https://github.com/SolimanIslam/PDA.git
    
-2. Install dependencies:![PDA-image](https://github.com/SolimanIslam/PDA/assets/136899518/4eddd321-5e15-4dc7-8fa1-19f4b8181a70)
+2. Install dependencies:
 
   cd pda-web-page
   npm install
