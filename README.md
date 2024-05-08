@@ -42,4 +42,4 @@ src/
 ## Styling
 The Bulma CSS framework is used for styling the components. You can customize the styles by modifying the Bulma classes in the components or by adding your custom CSS
 
-![Uploading PDA-image.png…]()
+![PDA-image](https://github.com/SolimanIslam/PDA/assets/136899518/a2c91c4f-0530-48c5-9376-5563f6e369c6)
