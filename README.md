@@ -27,7 +27,8 @@ src/
 1. Clone the repository:
    git clone https://github.com/SolimanIslam/PDA.git
    
-2. Install dependencies:
+2. Install dependencies:![PDA-image](https://github.com/SolimanIslam/PDA/assets/136899518/4eddd321-5e15-4dc7-8fa1-19f4b8181a70)
+
   cd pda-web-page
   npm install
 
@@ -40,3 +41,5 @@ src/
 
 ## Styling
 The Bulma CSS framework is used for styling the components. You can customize the styles by modifying the Bulma classes in the components or by adding your custom CSS
+
+![Uploading PDA-image.png…]()
